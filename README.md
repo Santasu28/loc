@@ -58,7 +58,7 @@ open areas, reflecting realistic airspace, safety-distance, and privacy
 constraints.
 
 <p align="center">
-  <img src="./media/dataset-overview.png" alt="FHY_dataset scene overview" width="100%">
+  <img src="./media/dataset-showcase.png" alt="FHY_dataset scene overview" width="100%">
 </p>
 
 The dataset covers three typical low-altitude scenes: mixed high-rise and
