@@ -3,10 +3,10 @@
 <p align="center">
   <h1 align="center">Atlas-Loc</h1>
   <p align="center">
-    <strong>Li Dongdong</strong> ·
-    <strong>Yang Tao</strong> ·
-    <strong>Zhang Yisu</strong> ·
-    <strong>Qin Shuo</strong> ·
+    <strong>Li Dongdong</strong> |
+    <strong>Yang Tao</strong> |
+    <strong>Zhang Yisu</strong> |
+    <strong>Qin Shuo</strong> |
     <strong>Li Jing</strong>
   </p>
   <h3 align="center">
@@ -15,6 +15,31 @@
     <a href="https://robot-vision.net/">YouTube Demo</a>
   </h3>
 </p>
+
+<p align="center">
+  <strong>Qualitative Comparisons</strong>
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center"><strong>Fog - Baseline</strong></td>
+    <td align="center"><strong>Fog - Ours</strong></td>
+  </tr>
+  <tr>
+    <td><img src="./media/fog_baseline.gif" alt="Fog baseline result" width="100%"></td>
+    <td><img src="./media/fog_ours.gif" alt="Fog result of Atlas-Loc" width="100%"></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Night - Baseline</strong></td>
+    <td align="center"><strong>Night - Ours</strong></td>
+  </tr>
+  <tr>
+    <td><img src="./media/night_baseline.gif" alt="Night baseline result" width="100%"></td>
+    <td><img src="./media/night_ours.gif" alt="Night result of Atlas-Loc" width="100%"></td>
+  </tr>
+</table>
+
+<br>
 
 ## Overview
 
