@@ -44,21 +44,37 @@
 
 ## Overview
 
-Atlas-Loc is a dataset-focused repository for our paper and benchmark resources.
-At this stage, the repository primarily introduces the **FHY_dataset** and collects
-the public-facing links related to the project.
+Atlas-Loc provides a challenging low-altitude UAV localization benchmark for
+studying robust visual relocalization under severe appearance changes and GNSS
+degradation.
 
-## FHY_dataset
+## Dataset
 
-**FHY_dataset** contains multiple sequences of the same scene captured from a
-**135 m aerial viewpoint**, covering:
+The **FHY_dataset** is collected across representative urban and suburban
+environments at **120-150 m** flight altitude, matching practical low-altitude
+logistics and eVTOL route settings. Instead of flying arbitrarily over dense
+building blocks, the trajectories follow roads, roadside green belts, and nearby
+open areas, reflecting realistic airspace, safety-distance, and privacy
+constraints.
 
-- day and night conditions
-- cross-season appearance changes
-- repeated observations of the same scene across different time periods
+<p align="center">
+  <img src="./media/dataset-overview.png" alt="FHY_dataset scene overview" width="100%">
+</p>
 
-The dataset is designed for research on long-term visual localization and scene
-understanding under severe appearance changes.
+The dataset covers three typical low-altitude scenes: mixed high-rise and
+low-rise urban areas, dense skyscraper regions with city-canyon effects, and
+texture-sparse suburban roads with grassland and vegetation. Each scene is
+repeatedly captured across seasons, time periods, weather conditions, and
+illumination changes, including sunny, cloudy, overcast low-light, foggy, rainy,
+and night-time flights.
+
+These sequences introduce strong visual challenges such as cross-season
+vegetation changes, large building shadows, low contrast, rain blur and
+reflections, dynamic vehicles, extreme fog-induced visibility loss, and
+day-to-night relocalization under street lighting. The dataset can therefore
+serve as a benchmark for evaluating visual SLAM, learning-based SLAM, dense
+matching SLAM, and map-based relocalization methods in realistic low-altitude
+urban environments.
 
 ## Dataset Access
 
