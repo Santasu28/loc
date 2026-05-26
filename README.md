@@ -14,37 +14,19 @@
   </h3>
 </p>
 
-<p align="center">
-  <strong>Qualitative Comparisons</strong>
-</p>
+<h2 align="center">Qualitative Comparisons</h2>
 
-<p align="center">
-  <strong>Fog - Baseline</strong>
-</p>
-<p align="center">
-  <img src="./media/fog_baseline.gif" alt="Fog baseline result" width="100%">
-</p>
+<h3 align="center">Foggy Scene</h3>
 
-<p align="center">
-  <strong>Fog - Ours</strong>
-</p>
-<p align="center">
-  <img src="./media/fog_ours.gif" alt="Fog result of Atlas-Loc" width="100%">
-</p>
+| Baseline Method | Atlas-Loc (Ours) |
+| :---: | :---: |
+| <img src="./media/fog-baseline-hd.gif" alt="Foggy scene baseline localization result" width="100%"> | <img src="./media/fog-atlas-loc-hd.gif" alt="Foggy scene Atlas-Loc localization result" width="100%"> |
 
-<p align="center">
-  <strong>Night - Baseline</strong>
-</p>
-<p align="center">
-  <img src="./media/night_baseline.gif" alt="Night baseline result" width="100%">
-</p>
+<h3 align="center">Night Scene</h3>
 
-<p align="center">
-  <strong>Night - Ours</strong>
-</p>
-<p align="center">
-  <img src="./media/night_ours.gif" alt="Night result of Atlas-Loc" width="100%">
-</p>
+| Baseline Method | Atlas-Loc (Ours) |
+| :---: | :---: |
+| <img src="./media/night-baseline-hd.gif" alt="Night scene baseline localization result" width="100%"> | <img src="./media/night-atlas-loc-hd.gif" alt="Night scene Atlas-Loc localization result" width="100%"> |
 
 <br>
 
