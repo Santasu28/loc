@@ -16,17 +16,29 @@
 
 <h2 align="center">Qualitative Comparisons</h2>
 
-<h3 align="center">Foggy Scene</h3>
+<h3 align="center">Foggy Scene - Baseline Method</h3>
 
-| Baseline Method | Atlas-Loc (Ours) |
-| :---: | :---: |
-| <img src="./media/fog-baseline-hd.gif" alt="Foggy scene baseline localization result" width="100%"> | <img src="./media/fog-atlas-loc-hd.gif" alt="Foggy scene Atlas-Loc localization result" width="100%"> |
+<p align="center">
+  <img src="./media/fog-baseline-hd.gif" alt="Foggy scene baseline localization result" width="100%">
+</p>
 
-<h3 align="center">Night Scene</h3>
+<h3 align="center">Foggy Scene - Atlas-Loc (Ours)</h3>
 
-| Baseline Method | Atlas-Loc (Ours) |
-| :---: | :---: |
-| <img src="./media/night-baseline-hd.gif" alt="Night scene baseline localization result" width="100%"> | <img src="./media/night-atlas-loc-hd.gif" alt="Night scene Atlas-Loc localization result" width="100%"> |
+<p align="center">
+  <img src="./media/fog-atlas-loc-hd.gif" alt="Foggy scene Atlas-Loc localization result" width="100%">
+</p>
+
+<h3 align="center">Night Scene - Baseline Method</h3>
+
+<p align="center">
+  <img src="./media/night-baseline-hd.gif" alt="Night scene baseline localization result" width="100%">
+</p>
+
+<h3 align="center">Night Scene - Atlas-Loc (Ours)</h3>
+
+<p align="center">
+  <img src="./media/night-atlas-loc-hd.gif" alt="Night scene Atlas-Loc localization result" width="100%">
+</p>
 
 <br>
 
