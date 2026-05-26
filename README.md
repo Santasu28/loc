@@ -1,5 +1,3 @@
-# Atlas-Loc
-
 <p align="center">
   <h1 align="center">Atlas-Loc</h1>
   <p align="center">
@@ -20,24 +18,33 @@
   <strong>Qualitative Comparisons</strong>
 </p>
 
-<table align="center">
-  <tr>
-    <td align="center"><strong>Fog - Baseline</strong></td>
-    <td align="center"><strong>Fog - Ours</strong></td>
-  </tr>
-  <tr>
-    <td><img src="./media/fog_baseline.gif" alt="Fog baseline result" width="100%"></td>
-    <td><img src="./media/fog_ours.gif" alt="Fog result of Atlas-Loc" width="100%"></td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Night - Baseline</strong></td>
-    <td align="center"><strong>Night - Ours</strong></td>
-  </tr>
-  <tr>
-    <td><img src="./media/night_baseline.gif" alt="Night baseline result" width="100%"></td>
-    <td><img src="./media/night_ours.gif" alt="Night result of Atlas-Loc" width="100%"></td>
-  </tr>
-</table>
+<p align="center">
+  <strong>Fog - Baseline</strong>
+</p>
+<p align="center">
+  <img src="./media/fog_baseline.gif" alt="Fog baseline result" width="100%">
+</p>
+
+<p align="center">
+  <strong>Fog - Ours</strong>
+</p>
+<p align="center">
+  <img src="./media/fog_ours.gif" alt="Fog result of Atlas-Loc" width="100%">
+</p>
+
+<p align="center">
+  <strong>Night - Baseline</strong>
+</p>
+<p align="center">
+  <img src="./media/night_baseline.gif" alt="Night baseline result" width="100%">
+</p>
+
+<p align="center">
+  <strong>Night - Ours</strong>
+</p>
+<p align="center">
+  <img src="./media/night_ours.gif" alt="Night result of Atlas-Loc" width="100%">
+</p>
 
 <br>
 
